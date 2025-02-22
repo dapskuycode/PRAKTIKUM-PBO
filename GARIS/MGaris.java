@@ -1,3 +1,10 @@
+/* NAMA FILE : MGaris.java
+ * DESKRIPSI : Berisi pemanggilan dan penggunaan attribut dan method dalam class garis
+ * PEMBUAT   : 24060123120039 / M. Daffa' Atstsaqif
+ * TANGGAL   : 22 Februari 2025
+ */
+
+
 package GARIS;
 
 import TITIK.Titik;

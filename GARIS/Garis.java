@@ -1,3 +1,10 @@
+/* NAMA FILE : Garis.java
+ * DESKRIPSI : Berisi attribut dan method dalam class garis
+ * PEMBUAT   : 24060123120039 / M. Daffa' Atstsaqif
+ * TANGGAL   : 22 Februari 2025
+ */
+
+
 package GARIS;
 
 import TITIK.Titik;

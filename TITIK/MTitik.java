@@ -1,3 +1,10 @@
+/* NAMA FILE : MTitik.java
+ * DESKRIPSI : Berisi pemanggilan dan penggunaan attribut dan method dalam class titik
+ * PEMBUAT   : 24060123120039 / M. Daffa' Atstsaqif
+ * TANGGAL   : 22 Februari 2025
+ */
+
+
 package TITIK;
 
 public class MTitik {
